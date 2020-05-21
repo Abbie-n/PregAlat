@@ -1,0 +1,2 @@
+# PregAlert
+PregAlat is an assistance app for pregnant mothers. It will help pregnant women to be able to set reminders and properly track their pregnancy cycle. It will serve as an assistance for Millions of pregnant women. This App would serve as a companion. It will help alleviate a particular burden of having to remember every detail while having to do other important things around the home and work.
